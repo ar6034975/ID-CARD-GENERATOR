@@ -1,0 +1,38 @@
+{
+  "name": "id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar6034975/ID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ar6034975/ID/issues"
+  },
+  "homepage": "https://github.com/ar6034975/ID#readme",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^7.4.0",
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/supabase-js": "^2.90.1",
+    "body-parser": "^2.2.2",
+    "canvas": "^3.2.1",
+    "cors": "^2.8.5",
+    "dialogflow-fulfillment": "^0.5.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^7.0.12",
+    "path": "^0.12.7",
+    "pdfkit": "^0.17.2",
+    "qrcode": "^1.5.4",
+    "uuid": "^13.0.0"
+  }
+}
